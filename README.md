@@ -22,7 +22,7 @@ Me gusta entender el problema completo antes de escribir la primera línea, y pr
 
 - 🔭 Ahora mismo trabajando con **Next.js**, **Astro** y **NestJS**
 - 📱 Metiéndome más a fondo en **React Native** y **Electron** para llevar mis proyectos fuera del navegador
-- ⚙️ Aprendiendo **Go**, principalmente para servicios donde el rendimiento importa
+- ⚙️ Uso **Go** para el backend en servicios donde el rendimiento importa (como TikSnap)
 - 🌱 Jugando con **Three.js / Blender** para piezas 3D low poly
 - 💬 Se puede hablar de arquitectura fullstack, APIs, sistemas a medida o SEO técnico
 
@@ -60,23 +60,12 @@ Me gusta entender el problema completo antes de escribir la primera línea, y pr
 
 | Proyecto | De qué se trata | Stack |
 |---|---|---|
-| Proyecto | De qué se trata | Stack |
-|---|---|---|
-| **[TikSnap](https://tiksnap.es/)** | Descargador de videos de TikTok sin marca de agua — sin ads invasivos, sin registro. Lo llevo yo solo: código, SEO y monetización | Next.js SSR · Puppeteer |
+| **[TikSnap](https://tiksnap.es/)** | Descargador de videos de TikTok sin marca de agua — sin ads invasivos, sin registro | Astro (frontend) · Go (backend) |
 | **[The Sky Mods](https://skymods.vercel.app/es)** | Plataforma de distribución de mods para una comunidad global de gaming, con soporte para 4 idiomas | Next.js · MongoDB · GitHub API |
 | **[Bocati](https://bocati.vercel.app/)** | Landing para un SaaS B2B con calculadora de ROI interactiva | Astro · TypeScript |
 | **[Golden Touch](https://www.goldentouchinfo.com/en)** | Sitio bilingüe (EN/ES) para una empresa de limpieza en Carolina del Norte, con formulario de cotización dinámica y SEO local | Next.js · TypeScript · i18n |
 | **[Melissa Hairstyle](https://melissahairstyle.com/)** | Tienda online con catálogo, blog bilingüe y un panel admin hecho desde cero para que la clienta gestione todo sin tocar código | Next.js · Supabase · CMS propio |
 | **TonyRanch** *(privado)* | Sistema operativo completo para un resort: reservas en tiempo real, POS, inventario y reportes financieros, todo en una PWA instalable | Next.js · Supabase · PWA |
-
----
-
-### 📊 Actividad
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xanydev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xanydev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
